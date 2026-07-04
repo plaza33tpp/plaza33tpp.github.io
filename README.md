@@ -2,7 +2,7 @@
 
 Carta digital del **Restaurante Plaza 33** (cocina peruana y amazónica), pensada para verse en el celular al escanear un código QR en la mesa.
 
-🔗 **En línea:** https://antianrose.github.io/carta-plaza33/
+🔗 **En línea:** https://plaza33tpp.github.io/
 
 ## ¿Cómo actualizar precios o platos?
 
